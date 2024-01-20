@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1457327-8fc4-4dbc-863a-d9acdf03dd91" name="Changes" comment="" />
+    <list default="true" id="f1457327-8fc4-4dbc-863a-d9acdf03dd91" name="Changes" comment="Iterface Customer loader created with the method load">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2bE6hNHHjfPK1HZ7NAeEvfo6xvg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,6 +47,35 @@
       <option name="presentableId" value="Default" />
       <updated>1705768010175</updated>
     </task>
+    <task id="LOCAL-00001" summary="Class Customer created">
+      <created>1705768074422</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705768074422</updated>
+    </task>
+    <task id="LOCAL-00002" summary="    Class Customer with constructor, getters and toString()">
+      <created>1705768250929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705768250929</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Iterface Customer loader created with the method load">
+      <created>1705768320725</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705768320725</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Class Customer created" />
+    <MESSAGE value="Class Customer with constructor, getters and toString()" />
+    <MESSAGE value="    Class Customer with constructor, getters and toString()" />
+    <MESSAGE value="Iterface Customer loader created with the method load" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iterface Customer loader created with the method load" />
   </component>
 </project>
