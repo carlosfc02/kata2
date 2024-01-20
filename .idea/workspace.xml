@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1457327-8fc4-4dbc-863a-d9acdf03dd91" name="Changes" comment="Iterface Customer loader created with the method load">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f1457327-8fc4-4dbc-863a-d9acdf03dd91" name="Changes" comment="Class TsvFileCustomerLoader created and done, this class implements the interface CustomerLoader with differents methods.">
+      <change beforePath="$PROJECT_DIR$/src/software/ulpgc/kata2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705768320725</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Class TsvFileCustomerLoader created and done, this class implements the interface CustomerLoader with differents methods.">
+      <created>1705768726635</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705768726635</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -76,6 +83,7 @@
     <MESSAGE value="Class Customer with constructor, getters and toString()" />
     <MESSAGE value="    Class Customer with constructor, getters and toString()" />
     <MESSAGE value="Iterface Customer loader created with the method load" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterface Customer loader created with the method load" />
+    <MESSAGE value="Class TsvFileCustomerLoader created and done, this class implements the interface CustomerLoader with differents methods." />
+    <option name="LAST_COMMIT_MESSAGE" value="Class TsvFileCustomerLoader created and done, this class implements the interface CustomerLoader with differents methods." />
   </component>
 </project>
